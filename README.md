@@ -7,7 +7,7 @@ Um den Code auszuführen und eigene Analysen durchzuführen, gehe wie folgt vor:
 1. Repository klonen
 2. Virtuelle Umgebung erstellen und aktivieren
 3. Abhängigkeiten installieren **pip install -r requirements.txt**
-4. Notebook starten: **jupyter notebook main_file.ipynb**
+4. Notebook starten: **jupyter notebook waze_file.ipynb**
 
 
 ## Überblick über das Geschäftsszenario
