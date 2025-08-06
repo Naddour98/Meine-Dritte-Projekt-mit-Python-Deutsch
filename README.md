@@ -6,7 +6,7 @@ Vorhersage von Nutzerbindung für die Navigations-App Waze anhand historischer A
 Um den Code auszuführen und eigene Analysen durchzuführen, gehe wie folgt vor:
 1. Repository klonen
 2. Virtuelle Umgebung erstellen und aktivieren
-3. Abhängigkeiten installieren **pip install -r requirements.txt**
+3. Abhängigkeiten installieren: **pip install -r requirements.txt**
 4. Notebook starten: **jupyter notebook waze_file.ipynb**
 
 
